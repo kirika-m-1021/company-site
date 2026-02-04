@@ -270,3 +270,9 @@ footer {
 #footer .copyright {
   font-size: 10px;
 }
+
+#footer .flex,
+#footer .img,
+#footer .info {
+  margin-bottom: 0;
+}
